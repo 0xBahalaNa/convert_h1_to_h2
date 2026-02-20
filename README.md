@@ -1,4 +1,4 @@
-# convert_h1_to_h2.py
+# Convert H1 to H2
 
 A Python script that safely converts Markdown H1 headings (`# Title`) to H2 headings (`## Title`) across an Obsidian vault.
 
